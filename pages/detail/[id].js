@@ -17,7 +17,7 @@ export default function Detail({ restaurant }) {
         <br />
    
         <main>
-          <h2>Informasi Menu</h2>
+          <h2>Menu</h2>
    
           <h3>Makanan</h3>
           <ul>
